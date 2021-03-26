@@ -1,3 +1,5 @@
+private/client*
+# DEFAULT VS CODE PYTHON GITIGNORE FILE BELOW
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
