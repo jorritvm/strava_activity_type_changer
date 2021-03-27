@@ -16,6 +16,9 @@ Changes the activity type for 'slow' activities to 'hike'.
     * a browser window will automatically open - give authorization
     * extract the 'code' from the redirected url and save it in ./private/client_code.txt
 
+* run get_accesstoken.py
+    * this will save your access token in ./private/client_token.txt
+
 * set up some cut-off values in modify_activities.py
 * run  modify_activities.py
 
