@@ -5,8 +5,7 @@ Changes the activity type for 'slow' activities to 'hike'.
 * get all python requirements:
   * py -3 -m venv .venv
   * .venv\scripts\activate
-  * python3 -m pip install requests
-  * pip install scrapy
+  * pip install -r requirements.txt
 
 * create your own strava API application
   * https://www.strava.com/settings/api.
